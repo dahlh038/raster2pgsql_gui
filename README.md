@@ -14,8 +14,8 @@ Next, run the command for where you want the gui application to live. Ex:
 move dist\raster2pgsql_gui.exe "C:\Program Files\PostgreSQL\18\bin\raster2pgsql_gui.exe"
 
 
-Made with the intent to connect with pgAdmin4.
+Made with the intent to connect with pgAdmin4
 
-Used ChatGPT to help with coding.
+Used ChatGPT to help with coding
 
 Runs very slowly, if you have any suggestions, please let me know!
